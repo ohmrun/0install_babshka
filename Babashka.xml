@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<interface xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+<interface uri="https://raw.githubusercontent.com/ohmrun/0install_babshka/main/Babashka.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
   <name>Babashka</name>
   <summary>babshka interprter</summary>
   <description>
